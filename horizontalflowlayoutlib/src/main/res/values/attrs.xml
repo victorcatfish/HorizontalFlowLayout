@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalFlowLayout">
+        <attr name="horizontalSpace" format="dimension" />
+        <attr name="verticalSpace" format="dimension" />
+        <attr name="maxLines" format="dimension" />
+
+    </declare-styleable>
+</resources>
